@@ -14,7 +14,7 @@ data = response.json()['result']
 
 print(
       
-    f" {params['from']} The result is  {data} "
+    f" The result is  {data} "
     #f" {amount1}{from1} has been converted to {to1}. /n The result is  {data} "
 
     # f" {response.json()['amount']['from']}   is converted to '{response.json()['to']}' {data} "
